@@ -17,6 +17,11 @@ This is a beginner-friendly chatbot project built using LangChain, Ollama, and S
 3. User asks a question → relevant chunks retrieved
 4. LangChain prompts Ollama with memory + context
 
+## 👩‍💻 Built by
+Safiya M Mohammed – AI/ML Intern & Prompt Engineering Enthusiast  
+[LinkedIn](https://www.linkedin.com/in/safiya-m-mohammed)
+
+
 ##  Run Locally
 
 ```bash
